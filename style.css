@@ -260,3 +260,19 @@ button:hover{
 
 
 
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+ul li a:hover{
+    color: #FFD700;
+}
+
